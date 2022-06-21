@@ -9,7 +9,7 @@ export default function Home({results}) {
   return (
     <div>
       <Head>
-        <title>hulu</title>
+        <title>Movies Trending App</title>
       </Head>
     {/* HEADER */}
 

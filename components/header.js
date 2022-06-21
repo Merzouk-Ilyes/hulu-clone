@@ -14,10 +14,10 @@ function header() {
                <HeaderItem  title="SEARCH" Icon={SearchIcon} />
                <HeaderItem  title="ACCOUNT" Icon={UserIcon} />
            </div>
-            <Image 
+            {/* <Image 
             className="object-contain"    
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hulu_logo_2017.svg/1200px-Hulu_logo_2017.svg.png"
-              height={100} width={200}  />
+              height={100} width={200}  /> */}
         </header>
     )
 }
